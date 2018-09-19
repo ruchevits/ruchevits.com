@@ -1,0 +1,68 @@
+[
+	{
+		"artists": [ "Yves Tumor" ],
+		"name": "Safe in the Hands of Love",
+		"year": 2018,
+		"genres": [ "Dance", "Electronic", "Experimental" ],
+	},
+	{
+		"artists": [ "Brian Eno", "David Byrne" ],
+		"name": "My Life in the Bush of Ghosts",
+		"year": 1981,
+		"genres": [ "Avant-funk", "Electronic", "Experimental" ],
+	},
+	{
+		"artists": [ "Queens of the Stone Age" ],
+		"name": "Songs for the Deaf",
+		"year": 2002,
+		"genres": [ "Stoner rock", "Desert rock", "Hard rock" ],
+	},
+	{
+		"artists": [ "Soundgarden" ],
+		"name": "Superunknown",
+		"year": 1994,
+		"genres": [ "Grunge", "Heavy metal", "Hard rock" ],
+	},
+	{
+		"artists": [ "Kyuss", "Queens of the Stone Age" ],
+		"name": "Kyuss / Queens of the Stone Age",
+		"year": 1997,
+		"genres": [ "Stoner rock", "Alternative rock" ],
+	},
+	{
+		"artists": [ "My Bloody Valentine" ],
+		"name": "Loveless",
+		"year": 1991,
+		"genres": [ "Avant-rock", "Noise rock", "Shoegazing"],
+	},
+	{
+		"artists": [ "David Bowie", "Brian Eno" ],
+		"name": "1. Outside",
+		"year": 1995,
+		"genres": [ "Industrial rock", "Art rock" ],
+	},
+	{
+		"artists": [ "Talking Heads" ],
+		"name": "Remain in Light",
+		"year": 9999,
+		"genres": [ "" ],
+	},
+	{
+		"artists": [ "Talking Heads", "Brian Eno" ],
+		"name": "",
+		"year": 9999,
+		"genres": [ "New wave", "Post-punk", "Funk", "Worldbeat", "Dance-rock" ],
+	},
+	{
+		"artists": [ "" ],
+		"name": "",
+		"year": 9999,
+		"genres": [ "" ],
+	},
+	{
+		"artists": [ "" ],
+		"name": "",
+		"year": 9999,
+		"genres": [ "" ],
+	}
+]

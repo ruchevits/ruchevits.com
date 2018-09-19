@@ -1,0 +1,28 @@
+Edward Ruchevits
+
+About
+- Description
+- Photo
+- My preferred stack: JavaScript, NodeJS, VueJS, Ethereum, AWS
+
+Contacts
+- Contact form [x] Request CV [Submit]
+- GitHub: https://github.com/ruchevits
+- LinkedIn: https://www.linkedin.com/in/ruchevits/
+- Twitter: https://twitter.com/ruchevits
+- Instagram: https://www.instagram.com/ruchevits/
+
+Travelling
+- Map
+- Chosen location: description, trips[], photos[], posts[]
+- Trip page
+- Post page
+- Photo page
+
+Music
+- Albums [ astonishing, worthy ]
+
+Projects
+- NeatlyMine
+- Tallysticks
+
